@@ -1,6 +1,6 @@
 # Solutions for DOM
 
-## 1st assignment
+## 1st task
 
 ```JavaScript
 
@@ -15,7 +15,7 @@ let vara = vardiv.querySelectorAll("a");
 
 ```
 
-## 2nd assignment
+## 2nd task
 
 ```JavaScript
 

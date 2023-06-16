@@ -1,6 +1,6 @@
 # Solutions for DOM
 
-## 1st assignment
+## 1st task
 
 ```JavaScript
 
@@ -9,14 +9,14 @@ divOverflow.style.overflow = "auto";
 
 ```
 
-## 2nd assignment
+## 2nd task
 
 ```JavaScript
 
 document.body.style.backgroundImage = "none";
 
 ```
-## 3rd assignment
+## 3rd task
 
 ```JavaScript
 
