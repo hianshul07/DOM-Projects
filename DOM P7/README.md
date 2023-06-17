@@ -1,5 +1,10 @@
 # Solutions for DOM
 
+## Expected output
+
+![Output](./ass7.1-after.png)
+![Output](./ass7.2-after.png)
+
 ## 1st task
 
 ```JavaScript
